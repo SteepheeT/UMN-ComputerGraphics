@@ -1,0 +1,7 @@
+﻿  Ray.cpp
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\Ray.cpp(99,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\Ray.cpp(184,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\Ray.cpp(214,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\Ray.cpp(217,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\Ray.cpp(220,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Raytracer.vcxproj -> C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1b\build\Debug\Raytracer.exe

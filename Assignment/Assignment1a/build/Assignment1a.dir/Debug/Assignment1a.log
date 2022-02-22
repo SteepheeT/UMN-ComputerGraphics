@@ -1,0 +1,13 @@
+﻿  Assignment1a.cpp
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(92,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(118,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(124,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(127,73): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(128,73): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(134,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(134,59): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(135,41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(135,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(164,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp(165,26): warning C4018: '<': signed/unsigned mismatch
+  Assignment1a.vcxproj -> C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\build\Debug\Assignment1a.exe

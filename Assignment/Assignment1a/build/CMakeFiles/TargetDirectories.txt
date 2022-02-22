@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a/build/CMakeFiles/Assignment1a.dir
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a/build/CMakeFiles/ZERO_CHECK.dir

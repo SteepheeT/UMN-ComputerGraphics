@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOCUMENTS\UMN\5607\CSCI5607-ASSIGNMENT\ASSIGNMENT\ASSIGNMENT1B\BUILD\CMAKEFILES\AFD62DE2A6561DA2CAC1674B1EE4B450\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b -BC:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b/build/Raytracer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

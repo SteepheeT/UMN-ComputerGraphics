@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOCUMENTS\UMN\5607\CSCI5607-ASSIGNMENT\ASSIGNMENT\ASSIGNMENT1A\BUILD\CMAKEFILES\0FE1878A53900645C625A6743C596420\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a -BC:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1a/build/Assignment1a.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

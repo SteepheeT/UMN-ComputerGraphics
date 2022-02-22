@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Input_processor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Vector3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Point3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Sphere.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Ray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Assignment1a.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Input_processor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Point3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\Ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Documents\UMN\5607\CSCI5607-Assignment\Assignment\Assignment1a\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E8ED74E4-7F78-3ACF-A895-D2F1F805F495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0E28EC44-3F93-37A0-8919-105E65D9E4D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

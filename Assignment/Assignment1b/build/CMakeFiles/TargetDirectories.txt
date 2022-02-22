@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b/build/CMakeFiles/Raytracer.dir
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/UMN/5607/CSCI5607-Assignment/Assignment/Assignment1b/build/CMakeFiles/ZERO_CHECK.dir
